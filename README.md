@@ -1,6 +1,6 @@
 # Arthur Spirandelli
 
-Site pessoal e espaço para materiais das disciplinas que desenvolvo.
+Site pessoal e espaço para materiais dos cursos que desenvolvo.
 
 🌐 **Site:** https://spirandelliag.github.io/
 
